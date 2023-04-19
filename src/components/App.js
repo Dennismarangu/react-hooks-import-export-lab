@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home username="Dennis Mutuma," city="Nairobi" />
+      <About img="" />
     </div>
   );
 }
